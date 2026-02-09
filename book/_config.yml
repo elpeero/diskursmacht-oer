@@ -46,6 +46,7 @@ sphinx:                                              # Options passed on to the 
       .rst: restructuredtext
     html_static_path: ["_static"]
     html_extra_path: ["_static"]
+    html_css_files: [custom.css]
     bibtex_reference_style: author_year
     language: en                                     # Defines language (English) of everything except the content itself. For Dutch: replace with `nl`, configuration part of Sphinx (https://www.sphinx-doc.org/en/master/index.html)
     html_js_files:

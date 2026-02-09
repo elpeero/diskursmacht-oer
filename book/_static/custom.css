@@ -1,0 +1,10 @@
+.scroll-table {
+    max-height: 500px !important;   /* or any height you prefer */
+    overflow-y: auto;    /* vertical scrolling */
+    overflow-x: hidden;  /* no horizontal scroll */
+    display: block;
+}
+
+.scroll-table table {
+    white-space: normal; /* allow line breaks */
+}
