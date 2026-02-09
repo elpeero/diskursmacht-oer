@@ -1,8 +1,8 @@
 # 📘 Anwendung der OER
 
-## Vorlage
+## Vorlagen
 
-In Anlehnung an die QUADRIGA-Vorlage {cite:p}`Schnaitter.2025` kann diese Open Educational Resource auf zwei Arten verwendet werden. 
+Diese Open Educational Resource basiert auf einem <a href="https://teachbooks.github.io/template/" target="_blank">Template</a> von <a href="https://teachbooks.io/" target="_blank">Teachbook, das unter <a href="https://creativecommons.org/licenses/by/4.0/deed.de" target="_blank">CC-BY-4.0</a> lizenziert ist. {cite:p}`vanWoudenberg.2026` In Anlehnung an das Konzept der QUADRIGA Open Educational Resources {cite:p}`Schnaitter.2025` kann diese Open Educational Resource auf zwei Arten verwendet werden. 
 
 
 1. 📘 Lesemodus: Sie lesen die OER in einem Browser (getestet mit Firefox) wie eine gewöhnliche Webseite. In diesem Modus sind keine Programmierkenntnisse oder Erfahrung mit Jupyter Notebooks nötig. Kapitel die ausführbaren Code enthalten, aber auch im Lesemodus gelesen werden können sind mit Rateken-Symbol und Buchsymbol gekennzeichnet (📘🚀).
