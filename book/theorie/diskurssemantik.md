@@ -1,14 +1,15 @@
+(semantik)=
 # Diskurssemantik und semantische Frames
 
-
-
 ## Diskurssemantik
+
+Der Begriff Diskurssemantik geht auf Dietrich Busse zurück, der ihn zudem in den größeren Kontext einer semantischen Epistemologie einordnet {cite:yearp}`Busse.2008b`. 
 
 ```{admonition} Korpus und Diskurs
 :class: keypoint
 <figure>
-<iframe width="100%" style="aspect-ratio: 16/9;" src="https://www.youtube.com/embed/_zUvhuY71lU?si=-w_aihcoEOvT3UQt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<figcaption style="font-size: 0.85em; font-style: italic; margin-top: 0.5em;">Dieses Video erscheint auf dem YouTube-Kanal <a href="https://www.youtube.com/@AlexanderLasch" target="_blank">@AlexanderLasch</a> unter der Lizenz <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC-BY-4.0</a>. In der Videobeschreibung wird zudem die folgende weitergehende Information gegeben: "'Linguistik in 60 Sekunden' ist ein gemeinsames Projekt von Patrick Beuge, Anja Bowitzky, Alexander Lasch und Karen Lehmann vom Germanistischen Seminar an der CAU zu Kiel."</figcaption>
+<iframe width="100%" style="aspect-ratio: 16/9;" src="https://www.youtube.com/embed/phZKw5uLTeg?si=HQIRnDnSxHIa6GlG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<figcaption style="font-size: 0.85em; font-style: italic; margin-top: 0.5em;">Dieses Video erscheint auf dem YouTube-Kanal <a href="https://www.youtube.com/@AvormW" target="_blank">@AvormW</a> unter der Lizenz <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC-BY-4.0</a>. In der Videobeschreibung wird zudem die folgende weitergehende Information gegeben: "Screencast zum Semantik-Seminar im Bachelor-Studiengang Germanistik, an der Heinrich-Heine-Universität Düsseldorf und für alle anderen."</figcaption>
 </figure>
 ```
 ````{admonition} Videoeinbettung in Jupyter Notebooks 🚀
