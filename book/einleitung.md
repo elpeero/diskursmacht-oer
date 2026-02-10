@@ -4,7 +4,7 @@
 ```{admonition} Work-in-Progress
 :class: caution,
 
-**Achtung!** Diese Website ist eine vorläufige Version zum Zwecke des Reviews. Die Inhalte sind nicht vollständig und entsprechen somit noch nicht in allen Punkten den Ansprüchen des Autoren. Für Beschwerden, richten Sie sich bitte an peer.scholl@uni-potsdam.de.
+**Achtung!** Diese Website ist eine vorläufige Version zum Zwecke des Reviews. Die Inhalte sind nicht vollständig und entsprechen somit noch nicht in allen Punkten den Ansprüchen des Autors. Dies betrifft unter anderem die Bibliografie, die wegen technischen Problemen noch nicht alle zitierten Belege anzeigt. Alle Belege finden sich aber in den bib-Dateien. Für Beschwerden, richten Sie sich bitte an peer.scholl@uni-potsdam.de.
 
 ```
 
