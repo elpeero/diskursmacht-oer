@@ -45,7 +45,27 @@ sphinx:                                              # Options passed on to the 
   extra_extensions:                                  
     - sphinx_apa_references                          # APA References
     - teachbooks_favourites                          # Gives you a starter package of extensions to use in your book, replace with individual extensions if you prefer some extensions not to be included (https://github.com/TeachBooks/TeachBooks-Favourites)
-  config:    
+  config:  
+    exclude_patterns:  [
+      _build,
+      _build/**,
+      Thumbs.db,
+      .DS_Store,
+      "**.ipynb_checkpoints",
+      conda,
+      venv,
+      .venv,
+      .venv/**,
+      venv/**,
+      README.md,
+      LICENSE.md,
+      useful_documentation.md,
+      .github,
+      .github/**,
+      "**Reviewbogen.md",
+      Checkliste_Finalisierung.md,
+      sprints.md,
+    ]     
     source_suffix:
       .rst: restructuredtext
     html_static_path: ["_static"]
