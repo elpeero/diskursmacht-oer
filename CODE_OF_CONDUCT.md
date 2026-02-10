@@ -1,5 +1,7 @@
 # Contributor Code of Conduct
 
+**Note**: This file is re-used from [TeachBooks](https://github.com/TeachBooks/template)
+
 As contributors and maintainers of this book, and in the interest of fostering an open and welcoming community, we pledge to respect all people who contribute through reporting issues, updating content, submitting pull requests or patches, and other activities.
 
 We are committed to making participation in this project a harassment-free experience for everyone, regardless of level of experience, gender, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, or nationality.

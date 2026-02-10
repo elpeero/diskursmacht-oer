@@ -13,7 +13,6 @@ parts:
     chapters:
       - file: einleitung/einleitung
       - file: anwendung/vorkenntnisse
-
       - file: theorie/einleitung
         sections:
           - file: theorie/diskurssemantik
@@ -25,6 +24,5 @@ parts:
           - file: diskurs/grafik_zeit
       - file: netzwerkanalyse/diskursnetzwerk
       - file: Literaturverzeichnis/Literatur
-
   # - caption: Exercises                              # Beipiel wie abweichende Überschriften im Inhaltsverzeichnis angelegt werden können
   #   chapters:

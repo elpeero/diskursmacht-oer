@@ -3,13 +3,13 @@
 
 ## Diskurssemantik
 
-Der Begriff Diskurssemantik geht auf Dietrich Busse zurück, der ihn zudem in den größeren Kontext einer semantischen Epistemologie einordnet {cite:yearp}`Busse.2008b`. 
+Der Begriff Diskurssemantik geht auf Dietrich Busse zurück, der ihn zudem in den größeren Kontext einer semantischen Epistemologie einordnet {cite:yearp}`Busse.2008b`. {cite:p}`Busse.2008`
 
 ```{admonition} Korpus und Diskurs
 :class: keypoint
 <figure>
 <iframe width="100%" style="aspect-ratio: 16/9;" src="https://www.youtube.com/embed/phZKw5uLTeg?si=HQIRnDnSxHIa6GlG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<figcaption style="font-size: 0.85em; font-style: italic; margin-top: 0.5em;">Dieses Video erscheint auf dem YouTube-Kanal <a href="https://www.youtube.com/@AvormW" target="_blank">@AvormW</a> unter der Lizenz <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC-BY-4.0</a>. In der Videobeschreibung wird zudem die folgende weitergehende Information gegeben: "Screencast zum Semantik-Seminar im Bachelor-Studiengang Germanistik, an der Heinrich-Heine-Universität Düsseldorf und für alle anderen."</figcaption>
+<figcaption style="font-size: 0.85em; font-style: italic; margin-top: 0.5em;">Dieses Video erscheint auf dem YouTube-Kanal <a href="https://www.youtube.com/@AvormW" target="_blank">@AvormW</a> von Alexander Willich unter der Lizenz <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC-BY-4.0</a>. In der Videobeschreibung wird zudem die folgende weitergehende Information gegeben: "Screencast zum Semantik-Seminar im Bachelor-Studiengang Germanistik, an der Heinrich-Heine-Universität Düsseldorf und für alle anderen."</figcaption>
 </figure>
 ```
 ````{admonition} Videoeinbettung in Jupyter Notebooks 🚀
