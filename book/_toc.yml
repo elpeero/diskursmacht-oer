@@ -23,7 +23,7 @@ parts:
           - file: diskurs/migrations-und-bildungsdiskurs
           - file: diskurs/grafik_zeit
       - file: netzwerkanalyse/diskursnetzwerk
-      - file: Literaturverzeichnis/Literatur
       - file: qualitatives/closeviewing
+      - file: Literaturverzeichnis/Literatur
   # - caption: Exercises                              # Beipiel wie abweichende Überschriften im Inhaltsverzeichnis angelegt werden können
   #   chapters:
