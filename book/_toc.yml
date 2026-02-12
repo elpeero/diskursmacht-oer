@@ -24,5 +24,6 @@ parts:
           - file: diskurs/grafik_zeit
       - file: netzwerkanalyse/diskursnetzwerk
       - file: Literaturverzeichnis/Literatur
+      - file: qualitatives/closeviewing
   # - caption: Exercises                              # Beipiel wie abweichende Überschriften im Inhaltsverzeichnis angelegt werden können
   #   chapters:
