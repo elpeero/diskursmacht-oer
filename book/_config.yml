@@ -37,14 +37,16 @@ html:
   use_issues_button: true
   use_repository_button: true
   extra_footer: |
-    <p xmlns:cc="http://creativecommons.org/ns#" >Dieses Werk ist lizensiert unter der Lizenz <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" class="external-link" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a>. Ausdrücklich davon ausgenommen sind anders lizenzierte Inhalte, was vorallem die analysierten Texte und zitierte Textbelege betrifft. Detailliertere Informationen finden Sie unter <a href="https://github.com/quadriga-dk/Book_Template/blob/main/LICENSE.md" target="_blank" class="external-link">LICENSE.md</a></p>
+    <p xmlns:cc="http://creativecommons.org/ns#" >Dieses Werk ist lizensiert unter der Lizenz <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" class="external-link" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a>. Ausdrücklich davon ausgenommen sind anders lizenzierte Inhalte, was vorallem die analysierten Texte und zitierte Textbelege betrifft. Detailliertere Informationen finden Sie unter <a href="https://github.com/elpeero/diskursmacht-oer/blob/main/LICENSE.md" target="_blank" class="external-link">LICENSE.md</a></p>
     <p>Diese OER basiert auf einem <a href="https://teachbooks.io/" target="_blank" class="external-link">TeachBooks</a>-Template.</p>
   use_multitoc_numbering: false
 
 sphinx:                                              # Options passed on to the underlying sphinx-parser
   extra_extensions:                                  
-    - sphinx_apa_references                          # APA References
+    - sphinx_apa_references                          # APA References, BUT it does not produce satisfactory APA-7th-style references yet
+    # - sphinxcontrib.bibtex 
     - teachbooks_favourites                          # Gives you a starter package of extensions to use in your book, replace with individual extensions if you prefer some extensions not to be included (https://github.com/TeachBooks/TeachBooks-Favourites)
+  
   config:  
     exclude_patterns:  [
       _build,
@@ -71,7 +73,8 @@ sphinx:                                              # Options passed on to the 
     html_static_path: ["_static"]
     html_extra_path: ["_static"]
     html_css_files: [custom.css]
-    bibtex_reference_style: author_year
+    # bibtex_reference_style: author_year_round
+    # bibtex_default_style: apa7
     language: en                                     # Defines language (English) of everything except the content itself. For Dutch: replace with `nl`, configuration part of Sphinx (https://www.sphinx-doc.org/en/master/index.html)
     html_js_files:
     - https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.4/require.min.js # Required for live code, part of TeachBooks-Sphinx-Thebe (https://teachbooks.io/manual/features/live_code.html)

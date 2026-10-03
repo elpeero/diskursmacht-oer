@@ -9,7 +9,12 @@
 ```
 
 
-Diese Open Educational Resource basiert auf einem <a href="https://teachbooks.github.io/template/" target="_blank">Template</a> von <a href="https://teachbooks.io/" target="_blank">Teachbook</a>, das unter <a href="https://creativecommons.org/licenses/by/4.0/deed.de" target="_blank">CC-BY-4.0</a> lizenziert ist {cite:p}`vanWoudenberg.2026`. Das Material richtet sich an Hochschullehrende auf der Suche nach einem Datensatz zu den Themen Diskurs, Hegemonie, Wissen oder der Diskurssemantik sind. Ein denkbarer Rahmen für die Nutzung des Materials ist die Medienbildung in der Lehrkräftebildung, für eine kritische Reflektion der (Re-)Produktion von Wissen über Migration und Bildung. Sie schafft dabei ersten Überblick über das semantische Wissen im Diskurs der _tagesschau_, der Nachrichtensendung mit dem höchsten Vertrauen und der größten Reichweite unter vergleichbaren Formaten. Das Ziel der OER ist dabei, für den Zusammenhang von sprachlich kontruierten Konzepten, Wissen und hegemonialem Diskurs zu schaffen.  Selbst ein (scheinbar) neutrales Medium wie die _tagesschau_ beeinflusst wie Phänomene in dem von ihr angesprochenen Kulturraum wahrgenommen werden. Die geschieht teilweise auf einer unterbewussten Ebene, --> hier weiter mit Frame-Semantik z. B. Mollika & Wilke
+Diese Open Educational Resource basiert auf einem <a href="https://teachbooks.github.io/template/" target="_blank">Template</a> von <a href="https://teachbooks.io/" target="_blank">Teachbook</a>, das unter <a href="https://creativecommons.org/licenses/by/4.0/deed.de" target="_blank">CC-BY-4.0</a> lizenziert ist {cite:p}`vanWoudenberg.2026`. Das Material richtet sich an Leser*innen des Beitrags _Semantische Frames in der_ tagesschau. _Eine Diskurssemantische Untersuchung am Nexus von Migration und Bildung_ {cite:p}`Scholl.imDruck` und an Hochschullehrende, die darauf basierende Unterrichtseinheiten gestalten möchten.
+
+
+Ein denkbarer Rahmen für die Nutzung des Materials ist die Medienbildung in der Lehrkräftebildung, für eine kritische Reflexion der (Re-)Produktion von Wissen über Migration und Bildung. Sie schafft dabei einen ersten Überblick über das semantische Wissen im Diskurs der _tagesschau_, der Nachrichtensendung mit dem höchsten Vertrauen und der größten Reichweite unter vergleichbaren Formaten.
+<!-- 
+Das Ziel der OER ist dabei, für den Zusammenhang von sprachlich kontruierten Konzepten, Wissen und hegemonialem Diskurs zu schaffen.  Selbst ein (scheinbar) neutrales Medium wie die _tagesschau_ beeinflusst wie Phänomene in dem von ihr angesprochenen Kulturraum wahrgenommen werden.  -->
 
 ```{admonition} Was bedeutet Open Educational Resource?
 :class: keypoint

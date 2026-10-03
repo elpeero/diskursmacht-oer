@@ -13,15 +13,16 @@ parts:
     chapters:
       - file: einleitung/einleitung
       - file: anwendung/vorkenntnisse
-      - file: theorie/einleitung
-        sections:
-          - file: theorie/diskurssemantik
-          - file: theorie/CDA
+      # - file: theorie/einleitung
+      #   sections:
+      #     - file: theorie/diskurssemantik
+      #     - file: theorie/CDA
       - file: korpus/korpus
       - file: diskurs/einleitung
         sections:
           - file: diskurs/migrations-und-bildungsdiskurs
           - file: diskurs/grafik_zeit
+      - file: netzwerkanalyse/sw.md
       - file: netzwerkanalyse/diskursnetzwerk
       - file: qualitatives/closeviewing
       - file: Literaturverzeichnis/Literatur
