@@ -1,17 +1,14 @@
 # first list the packages you wish to download from PyPI
-teachbooks 
+teachbooks==0.2.4
 sphinx_apa_references==1.0.1
 jupyter-book==1.0.4
 jupyterquiz==2.8.*
-matplotlib
-numpy
+matplotlib==3.10.8
+numpy==1.26.4
 ipywidgets==8.1.7
-gravis
+gravis==0.1.0
 networkx==3.4.2
 pandas==2.1.3
-tzdata
-datetime
-time
-requests
+tzdata==2025.3
 
 git+https://github.com/TeachBooks/TeachBooks-Favourites
