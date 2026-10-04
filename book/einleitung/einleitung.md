@@ -2,25 +2,25 @@
 
 ## Medien
 
-Hegemoniale Institutionen wie Schulen {cite:p}`Khakpour.2023{S. 60-63}` und Medien {cite:p}`Islentyeva.2021{S. 17-20}` sind essenziell für die Wissensvermittlung in sozialen Gemeinschaften, wodurch eine kritische Medienbildung ein wichtiger Baustein für ein stabiles soziale Gefüge ist. {cite:t}`Scholl.imDruck` identifziert Konzepte in Nachrichtenbeiträgen der _tagesschau_ zu den Themen Migration und Bildung. Diese werden in ein Netzwerk überführt, dass dieses Wissen modelliert, wodurch zentrale Konzepte anhand ihrer Vernetzung identifziert werden können. Diese OER legt die qualitativen Annotationen offen und bettet diese in erklärende Anmerkungen ein. Mit dem übergeordneten Ziel "intersubjektiver Plausibilisierbarkeit" {cite:p}`Machold.2013{S. 34}` wird die Argumentation somit auch kritisierbar und anküpfungsfähig, was auch die flexiblere Nutzung der hier offengelegten Daten in der Lehre dienen soll.
+Hegemoniale Institutionen wie Schulen {cite:p}`Khakpour.2023{S. 60-63}` und Medien {cite:p}`Islentyeva.2021{S. 17-20}` sind essenziell für die Wissensvermittlung in sozialen Gemeinschaften, wodurch eine kritische Medienbildung ein wichtiger Baustein für ein stabiles soziale Gefüge ist. {cite:t}`Scholl.imDruck` identifziert Konzepte in Nachrichtenbeiträgen der _tagesschau_ zu den Themen Migration und Bildung. Diese werden in ein Netzwerk überführt, das dieses Wissen modelliert, wodurch zentrale Konzepte anhand ihrer Vernetzung identifziert werden können.
+
+Diese OER legt die qualitativen Annotationen offen und bettet diese in erklärende Anmerkungen ein. Mit dem übergeordneten Ziel "intersubjektiver Plausibilisierbarkeit" {cite:p}`Machold.2013{S. 34}` wird die Argumentation somit auch kritisierbar und anküpfungsfähig, was auch der flexibleren Nutzung der hier offengelegten Daten in der Lehre dienen soll.
 
 ```{admonition} Die <i>tagesschau</i> als Nachrichtenquelle
 :class: seealso
 
 Die _tagesschau_ nimmt aufgrund der konstant höchsten Reichweite und dem außergewöhnlichen Vertrauen unter den deutschen Nachrichtenmedien eine herausragende Rolle ein:
 
-- {cite:t}`Geese.2023` untersucht die Rezeption der _tagesschau_ aus einer medienwissenschaftlich-historischen Perspektive, wobei der den Übergang der _tagesschau_ in die digitale Ära als gelungen betrachtet wird.
-- Im <i>Reuters Digital News Report 2025</i> {cite:p}`Newman.2025` wird der <i>tagesschau</i> dass höchste Vertrauen ausgesprochen und sie wird sowohl unter den offline sowie online Nachrichtenmedien als meistgenutzte Quelle genannt {cite:p}`Newman.2025{S. 85}`.
+- {cite:t}`Geese.2023` untersucht die Rezeption der _tagesschau_ aus einer medienwissenschaftlich-historischen Perspektive, wobei der Übergang der _tagesschau_ in die digitale Ära als gelungen betrachtet wird.
+- Im <i>Reuters Digital News Report 2025</i> {cite:p}`Newman.2025` wird der <i>tagesschau</i> das höchste Vertrauen ausgesprochen und sie wird sowohl unter den offline sowie online Nachrichtenmedien als meistgenutzte Quelle genannt {cite:p}`Newman.2025{S. 85}`.
 - Die Umfrageergebnisse in {cite:t}`Newman.2025{S. 85}` zeigen _YouTube_ als wichtigste Nachrichtenquelle unter den sozialen Medien, wo die _tagesschau_ einen Kanal mit 2,24 Mio Followern betreibt und die 20-Uhr-Ausgabe ihrer Nachrichtensendung täglich zur Verfügung stellt (Quelle <a href="https://www.youtube.com/@tagesschau">@tagesschau</a>, Stand 3. Oktober 2026).
 
 ```
 
-(semantik)=
-## Diskurssemantik und semantische Frames
+(framesemantik)=
+## 📘 Frame-Semantik
 
-### 📘 Frame-Semantik
-
-Um zu untersuchen, wie das Wissen über Bildung und Migration in der _tagesschau_ perspektiviert wird, werden semantische Frames als "Strukturen aus Wissenselementen" {cite:p}`Busse.2018{S. 77}` in einem Korpus aus Untertiteln der _tagesschau_ analysiert. Um die Inhalte dieser Resource zu verstehen, ist demnach zumindest ein grundsätzliches Verständnis der frame-semantischen Theorie von Vorteil. 
+Um zu untersuchen, wie das Wissen über Bildung und Migration in der _tagesschau_ perspektiviert wird, werden semantische Frames als "Strukturen aus Wissenselementen" {cite:p}`Busse.2018{S. 77}` in einem Korpus aus Untertiteln der _tagesschau_ analysiert. Um die Inhalte dieser Ressource zu verstehen, ist demnach zumindest ein grundsätzliches Verständnis der frame-semantischen Theorie von Vorteil. 
 
 ```{admonition} Weiterführende Literatur zur Frame-Semantik
 :class: seealso
@@ -33,7 +33,7 @@ Um zu untersuchen, wie das Wissen über Bildung und Migration in der _tagesschau
 - Für eine tiefergehende Analyse der Perspektivierung des durch semantische Frames strukturierten Wissens sind die Ansätze von {cite:t}`Klein.2018` und {cite:t}`Pentzold.2023` ein geeigneter Einstieg in linguistisch fundierte Framing-Analysen.
 ```
 
-```{admonition} Das Framenet-Konstruktikon des Deutschen als Resource für die frame-semantische Annotationspraxis
+```{admonition} Das Framenet-Konstruktikon des Deutschen als Referenzwerk für die frame-semantische Annotationspraxis
 :class: hinweis
 
 Das [_FrameNet-Konstruktikon des Deutschen_](https://framenet-constructicon.hhu.de/) ist eine korpusbasierte Datenbank semantischer Frames, die bei der Textannotion als Referenzwerk genutzt werden kann. Dabei muss jedoch beachtet werden, dass semantische Frames als Analysekategorie keine festen Einheiten darstellen, sondern gerade die kontextuelle Variabilität von Bedeutungen erfassen sollen. Annotationen sollen also stets auf Basis des sprachlichen Materials plausibilisierbar sein.
@@ -42,7 +42,8 @@ Das [_FrameNet-Konstruktikon des Deutschen_](https://framenet-constructicon.hhu.
 
 {cite:t}`Scholl.imDruck` untersucht semantische Frames über Textgrenzen hinweg in einer kritischen Diskursanalyse. Dafür wird im nächsten Abschnitt der Begriff _Diskurssemantik_ eingeführt.
 
-### Diskurssemantik
+(diskurssemantik)=
+## Diskurssemantik
 
 Der Begriff Diskurssemantik geht auf Dietrich Busse zurück, der ihn zudem in den größeren Kontext einer semantischen Epistemologie einordnet {cite:p}`Busse.2008`. Demnach werden linguistisch fundierte Analysen in einem nach semantischen Kriterien ausgewählten Korpus durchgeführt und auch machtkritische Analysen sind nicht ausgeschlossen {cite:p}`Busse.2008{S. 119--120}`. 
 

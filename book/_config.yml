@@ -27,6 +27,7 @@ execute:
     "**Reviewbogen.md",
     Checkliste_Finalisierung.md,
     sprints.md,
+    "**/scraping.ipynb",
   ]                             
 
   allow_errors:      false                           # Default value (line can be removed), all cells are always run, configuration part of Jupyterbook v1 (https://jupyterbook.org/en/stable/customize/config.html)
@@ -73,9 +74,7 @@ sphinx:                                              # Options passed on to the 
     html_static_path: ["_static"]
     html_extra_path: ["_static"]
     html_css_files: [custom.css]
-    # bibtex_reference_style: author_year_round
-    # bibtex_default_style: apa7
-    language: en                                     # Defines language (English) of everything except the content itself. For Dutch: replace with `nl`, configuration part of Sphinx (https://www.sphinx-doc.org/en/master/index.html)
+    language: de                                     # Defines language (English) of everything except the content itself. For Dutch: replace with `nl`, configuration part of Sphinx (https://www.sphinx-doc.org/en/master/index.html)
     html_js_files:
     - https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.4/require.min.js # Required for live code, part of TeachBooks-Sphinx-Thebe (https://teachbooks.io/manual/features/live_code.html)
     thebe_config:

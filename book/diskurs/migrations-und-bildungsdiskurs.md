@@ -1,6 +1,6 @@
 # 📘 Der Migrations- und Bildungsdiskurs der _tagesschau_ im Untersuchungszeitraum
 
-Wie in {ref}`Abschnitt 2 <cda>` eingeführt, spielt der sozio-kognitive Kontext eines Textes eine zentrale Rolle für dessen Interpretation. Es ist also wichtig sich die zeitliche Verteilung der Texte zu betrachten, bevor diese näher untersucht werden. Für einen ersten Überblick werden die untersuchten Texte, nach deren diskursiver Einordnung (Migration / Bildung), in {numref}`korpus-timeline` auf einer Zeitachse dargestellt. Diese Zeitachse bildet den Untersuchungszeitraum ab.
+Der sozio-kognitive Kontext eines Textes spielt eine zentrale Rolle für dessen Interpretation {cite:p}`{vgl.}vanDijk.2008`. Es ist also wichtig sich die zeitliche Verteilung der Texte zu betrachten, bevor diese näher untersucht werden. Für einen ersten Überblick werden die untersuchten Texte, nach deren diskursiver Einordnung (Migration / Bildung), in {numref}`korpus-timeline` auf einer Zeitachse dargestellt. Diese Zeitachse bildet den Untersuchungszeitraum ab.
 
 ## Korpuszusammensetzung: zeitliche Verteilung der Texte im Korpus
 
@@ -16,10 +16,13 @@ Zeitliche Verteilung der untersuchten Texte im Untersuchungszeitraum Unterscheid
 
 ## Korpuszusammensetzung: chronologische Auflistung aller Texte
 
+In {ref}`tab-korpus-list` finden Sie alle untersuchten Beiträge aufgelistet mit Beitragstitel, Datum der Sendung und Zitation.
+
 <div class="scroll-table">
 
 ```{list-table} Textauswahl für die frame-semantische Annotation
 :header-rows: 1
+:name: tab-korpus-list
 
 * - Datum der Ausstrahlung
   - Beitragstitel

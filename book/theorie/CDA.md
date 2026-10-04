@@ -1,2 +1,0 @@
-(cda)=
-# Kritische Diskursanalyse

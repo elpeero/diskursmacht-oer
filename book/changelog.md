@@ -1,11 +1,4 @@
 # Changelog
 
-## `<latest version>`: `<date>`
-- `<Added/modified/deleted>` [](`<relative link to changed file>`)
-- ...
-- Full Changelog: `[<previous version>...<current version>](<link to diff as provided by GitHub>)`
-
-## `<previous version>`: <...>
-- <...>
-
-<...>
+## 1.0.0: 2026-10-05
+- Added: initial release of the OER "Macht und Wissen im Migrations- und Bildungsdiskurs der tagesschau"
