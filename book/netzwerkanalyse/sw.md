@@ -1,4 +1,3 @@
-# 📘🚀 Vernetztes Wissen – Schlüsselwörter und semantische Frames
 ## Schlüsselwörter
 
 
