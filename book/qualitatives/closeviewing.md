@@ -9,8 +9,6 @@ Auch wenn multimodale Frame-Analysen mit der in {cite:t}`Scholl.imDruck`vorgesch
 ```{admonition} tagesschau 20:00 Uhr vom 16.05.2023
 :class: keypoint
 
-Sehen Sie sich dieses Video mit Untertiteln 
-
 <figure>
 <iframe src="https://www.ardmediathek.de/embed/Y3JpZDovL3RhZ2Vzc2NoYXUuZGUvZjg3YmE1YmMtNGQ0Ni00YWI5LWFmYzctYTdjZGQ4NWNlZDUxX2dhbnplU2VuZHVuZw?startTime=326.45&endTime=358.5" width="640" height="360" allowfullscreen allow="clipboard-read; clipboard-write" frameBorder="0" scrolling="no"></iframe>
 <figcaption style="font-size: 0.85em; font-style: italic; margin-top: 0.5em;">
