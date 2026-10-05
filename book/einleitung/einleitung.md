@@ -2,9 +2,9 @@
 
 ## Medien
 
-Hegemoniale Institutionen wie Schulen {cite:p}`Khakpour.2023{S. 60-63}` und Medien {cite:p}`Islentyeva.2021{S. 17-20}` sind essenziell für die Wissensvermittlung in sozialen Gemeinschaften, wodurch eine kritische Medienbildung ein wichtiger Baustein für ein stabiles soziale Gefüge ist. {cite:t}`Scholl.imDruck` identifziert Konzepte in Nachrichtenbeiträgen der _tagesschau_ zu den Themen Migration und Bildung. Diese werden in ein Netzwerk überführt, das dieses Wissen modelliert, wodurch zentrale Konzepte anhand ihrer Vernetzung identifziert werden können.
+Hegemoniale Institutionen wie Schulen {cite:p}`Khakpour.2023{S. 60-63}` und Medien {cite:p}`Islentyeva.2021{S. 17-20}` sind essenziell für die Wissensvermittlung in sozialen Gemeinschaften, wodurch eine kritische Medienbildung ein wichtiger Baustein für ein stabiles soziale Gefüge ist. {cite:t}`Scholl.imDruck` leistet hier Grundlagenarbeit, druch eine kritische Reflexion von medial vermitteltem hegemonialen Wissen. In einer qualitativen kritischen Diskursanalyse werden Konzepte in Nachrichtenbeiträgen der _tagesschau_ zu den Themen Migration und Bildung identifiziert. Diese werden in ein Netzwerk überführt, das dieses Wissen modelliert, wodurch zentrale Konzepte anhand ihrer Vernetzung sichtbar werden.
 
-Diese OER legt die qualitativen Annotationen offen und bettet diese in erklärende Anmerkungen ein. Mit dem übergeordneten Ziel "intersubjektiver Plausibilisierbarkeit" {cite:p}`Machold.2013{S. 34}` wird die Argumentation somit auch kritisierbar und anküpfungsfähig, was auch der flexibleren Nutzung der hier offengelegten Daten in der Lehre dienen soll.
+Diese OER legt die qualitativen Annotationen, als begleitendes Material, offen und bettet diese in erklärende Anmerkungen ein. Mit dem Ziel "intersubjektiver Plausibilisierbarkeit" {cite:p}`Machold.2013{S. 34}` wird die Argumentation somit auch kritisierbar und anküpfungsfähig, was auch in Kontexten der universitären Lehre geschehen kann.
 
 ```{admonition} Die <i>tagesschau</i> als Nachrichtenquelle
 :class: seealso
