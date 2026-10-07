@@ -13,8 +13,8 @@ type: software
 authors:
   - given-names: Peer
     family-names: Scholl
-    email: peer.scholl@uni-potsdam.de
-    affiliation: Universität Potsdam
+    email: peer.scholl@uni-leipzig.de
+    affiliation: Universität Leipzig
     orcid: 'https://orcid.org/0009-0008-5062-3341'
 repository-code: 'https://github.com/elpeero/diskursmacht-oer'
 url: 'https://elpeero.github.io/diskursmacht-oer/'
